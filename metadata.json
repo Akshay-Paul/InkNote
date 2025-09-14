@@ -1,0 +1,7 @@
+{
+  "name": "Handwritten Task Converter",
+  "description": "An iOS-inspired web application that converts handwritten text from an image into a categorized list of tasks using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
